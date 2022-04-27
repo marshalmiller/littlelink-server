@@ -11,9 +11,9 @@ services:
       context: ./
       dockerfile: Dockerfile
     environment:
-      - META_TITLE=Techno Tim
-      - META_DESCRIPTION=Techno Tim Link page
-      - META_AUTHOR=Techno Tim
+      - META_TITLE=afilli.app
+      - META_DESCRIPTION=Linktree for Afilliate Links
+      - META_AUTHOR=afilli.app
       - LANG=en
       - META_INDEX_STATUS=all
       - THEME=Dark
